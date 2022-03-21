@@ -1,10 +1,10 @@
 # Landing-Page-in-Three-JS
 
-# First Run
+## First Run
 npm install
 
-# To open in live server 
+## To open in live server 
 npm run dev 
 
-# To build 
+## To build 
 npm run build
